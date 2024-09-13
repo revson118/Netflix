@@ -9,7 +9,7 @@
 
         SCREENSHOTS:
 
-Landing Page:
+Landing Page:https://github.com/AdityaKumawat97/react-e-commerce-website/blob/master/src/assets/main-screen.png
 
 
 Product Preview:
