@@ -9,7 +9,8 @@
 
         SCREENSHOTS:
 
-Landing Page:https://github.com/AdityaKumawat97/react-e-commerce-website/blob/master/src/assets/main-screen.png
+![Capture](https://github.com/user-attachments/assets/39ef36d1-5c84-43f8-b955-5129fd53f527)
 
 
-Product Preview:
+
+
