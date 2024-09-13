@@ -11,7 +11,7 @@
 
 ![Capture](https://github.com/user-attachments/assets/39ef36d1-5c84-43f8-b955-5129fd53f527)
 
-Developed With
+DEVOLPOED WITH:
 
 1)Visual Studio Code - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
@@ -21,11 +21,13 @@ Developed With
 
 4)CSS3 - A css metalanguage
 
-Getting Started
+
+GETTING STARTED:
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+
+PREREQUISITES:
 
 The following software is required to be installed on your system:
 
@@ -38,7 +40,8 @@ Type the following commands in the terminal to verify your node and npm versions
 
 2)npm -v
 
-Install
+
+INSTALL:
 
 1)Follow the following steps to get development environment running.
 
@@ -47,6 +50,8 @@ Install
 git clone:(https://github.com/revson118/Netflix.git)
 
 OR USING SSH
+
+
 
 Install node modules
 
